@@ -33,5 +33,5 @@ Potentiometer(Analog Input) --> ESP32 (ADC + Decision) --> MQTT Broker (test.mos
 
 ![Architecture](images/image.png)
 
-![Architecture](images/iot2.jpeg)
+![Architecture](images/iot1.jpeg)
 
