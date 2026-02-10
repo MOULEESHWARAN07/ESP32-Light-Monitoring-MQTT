@@ -30,3 +30,5 @@ The ESP32 publishes the light status to an MQTT broker, and a PC dashboard subsc
 # System Architecture
 
 Potentiometer(Analog Input) --> ESP32 (ADC + Decision) --> MQTT Broker (test.mosquitto.org) --> PC Dashboard (Python Subscriber)
+
+![Architecture](images/image.png)
