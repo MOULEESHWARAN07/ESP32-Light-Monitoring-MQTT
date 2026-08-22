@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C++ / Arduino / IDEs / Editors
+.idea/
+.vscode/
+*.log
+.DS_Store
+
+# Local configuration
+config_local.py
+credentials.py
